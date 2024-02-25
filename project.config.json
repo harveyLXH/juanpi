@@ -1,0 +1,15 @@
+{
+  "miniprogramRoot": "./dist/weapp",
+  "projectname": "HYJPApp",
+  "description": "HYJPApp",
+  "appid": "wxbe9b17aae6a27af6",
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
